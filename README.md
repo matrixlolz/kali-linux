@@ -7,7 +7,7 @@
 > just copy and paste bellow command in your termux 
 * Note indian user must connect VPN
 ```
-curl -sSL https://raw.githubusercontent.com/voidxmatrix/kali-linux/main/installkali | bash
+curl -sSL https://raw.githubusercontent.com/matrixlolz/kali-linux/main/installkali | bash
 ```
 ## Fixes 
 * Added user kali ✅
@@ -17,4 +17,4 @@ curl -sSL https://raw.githubusercontent.com/voidxmatrix/kali-linux/main/installk
 * Added new sources of kali ✅
 
 ## Watch more from me 
-* [Telegram](https://t.me/voidxmatrix) 
+* [Telegram](https://t.me/ishowmatrix) 
